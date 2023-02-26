@@ -1,0 +1,24 @@
+{
+  "produts": [
+    {
+      "id": 1,
+      "name": "Caneta Bic preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook MacBook Pro",
+      "price": 12899.99
+    },
+    {
+      "id": 3,
+      "name": "Samsung - S20+",
+      "price": 5200.25
+    },
+    {
+      "id": 4,
+      "name": "Geladeira Electrolux",
+      "price": 8999.99
+    }
+  ]
+}
